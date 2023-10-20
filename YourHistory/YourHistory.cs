@@ -19,6 +19,7 @@ namespace YourHistory
             //Игра
             void StartGame()
             {
+                Console.WriteLine();
                 // Создание игрока
                 Player player = new Player();
 
